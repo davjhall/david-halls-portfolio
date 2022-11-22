@@ -1,5 +1,5 @@
 import React from "react"
-export function Contact() {
+export function Resume() {
 
-    return <h1>Contact Me</h1>
+    return <h1>My Experience</h1>
 }
