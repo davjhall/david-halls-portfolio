@@ -1,5 +1,5 @@
-
-import './App.css'
+import Layout from './Components/Layout'
+import './App.scss'
 import React from 'react'
 import { Routes, Route, Outlet, Link } from 'react-router-dom'
 import AboutMe from "./Components/AboutMe"
@@ -18,7 +18,7 @@ function App() {
             <li><Link to="/resume">My Resume</Link></li>
             <li><Link to="/portfolio">Portfolio</Link></li>
             <Routes>
-              <Route path="/" element={<AboutMe />}></Route>
+              <Route path="/" element={<Layout />}></Route>
               <Route path="/contact" element={<Contact />}></Route>
               <Route path="/portfolio" element={<Portfolio />}></Route>
               <Route path="/resume" element={<Resume />}></Route>
