@@ -1,16 +1,34 @@
-.class { 
-  background: url();
-}
+
+
+
 
 html{
   font-size: 62.5%;
 }
 
 body{
-  color: #444;
-  background: #022c43;
-  overflow: hidden;
+  color: #022c43;
+  background-color: #022c43;
+  
   display: block;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+.footer{
+  color: white;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(1, 7, 8);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dhall { 
+  
+  
 }

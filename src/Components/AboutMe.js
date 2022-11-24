@@ -2,8 +2,16 @@ import React from "react"
 
 
 
-export default function AboutMe() {
-    return <h1>About David </h1>
 
+
+
+
+export function AboutMe() {
+    return (
+        <div className="dhall">
+    <h1>About David Hall </h1>
+    <img src="Dhall.jpg" alt="Logo" />
+        </div>
+    );
 }
 
