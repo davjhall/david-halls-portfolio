@@ -2,7 +2,7 @@
   "name": "david-halls-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://davjhall.github.io/david-portfolio/",
+  "homepage": "https://davjhall.github.io/david-halls-portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
