@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/david-halls-portfolio/static/css/main.a2896e5d.css",
+    "main.js": "/david-halls-portfolio/static/js/main.78e0b9ec.js",
+    "static/js/787.844459d1.chunk.js": "/david-halls-portfolio/static/js/787.844459d1.chunk.js",
+    "index.html": "/david-halls-portfolio/index.html",
+    "main.a2896e5d.css.map": "/david-halls-portfolio/static/css/main.a2896e5d.css.map",
+    "main.78e0b9ec.js.map": "/david-halls-portfolio/static/js/main.78e0b9ec.js.map",
+    "787.844459d1.chunk.js.map": "/david-halls-portfolio/static/js/787.844459d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2896e5d.css",
+    "static/js/main.78e0b9ec.js"
+  ]
+}
